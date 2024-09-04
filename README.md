@@ -6,14 +6,22 @@ My name is André Filipe Obenaus, I'm a Mechanical and Mechatronics Engineer who
 ## My Coding Journey
 I'm still in the early stages of my programming journey, with skills ranging from beginner to intermediate. Here's what I'm working with:
 
-- **Programming Languages:**
-  - **C:** Learning the ropes of writing efficient and effective code.
-  - **Python:** Getting the hang of scripting, automation, and some data analysis.
-  - **JavaScript:** Exploring how to create dynamic and interactive web experiences.
+- **Main Stack:**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+
+- **Machine Learning / Data Science:**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+
 
 - **Technologies:**
-  - **Node.js:** Starting to build server-side applications and understanding backend development.
-  - **Arduino:** Enjoying hands-on projects and prototyping cool hardware ideas.
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Let's Connect
 I'm always up for a chat about tech, engineering, or potential collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/andreobenaus/?locale=en_US) or drop me an email at filipester@gmail.com.
