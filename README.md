@@ -6,10 +6,12 @@ My name is André Filipe Obenaus, I'm a Mechanical and Mechatronics Engineer who
 ## My Coding Journey
 I'm still in the early stages of my programming journey, with skills ranging from beginner to intermediate. Here's what I'm working with:
 
-- **Main Stack:**
+- **Stack:**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 - **Machine Learning / Data Science:**
@@ -33,7 +35,7 @@ I'm still in the early stages of my programming journey, with skills ranging fro
 ---
 
 ![André Filipe Obenaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipester&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipester&layout=compact)]
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipester&theme=radical&show_icons=true&card_width=200)
 
 Thanks for stopping by my profile!
