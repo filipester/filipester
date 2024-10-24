@@ -32,10 +32,13 @@ I'm still in the early stages of my programming journey, with skills ranging fro
 <a href="https://www.linkedin.com/in/andreobenaus/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
+
 ---
 
 ![André Filipe Obenaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipester&show_icons=true&theme=radical)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipester&theme=radical&show_icons=true&card_width=200)
 
-Thanks for stopping by my profile!
+
+
+# Thanks for stopping by my profile!
